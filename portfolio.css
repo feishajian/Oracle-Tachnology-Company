@@ -44,6 +44,7 @@ a{
     line-height: 40px;
     text-align: center;
     width: 69px;
+    font-size: 14px;
 }
 .header .right li:nth-child(5){
     background: #f45f5b;
