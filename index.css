@@ -28,7 +28,7 @@ a{
 }
 .header .left span:nth-child(2){
     font-size: 24px;
-    color: #f45f5b;
+    color: #00567a;
 }
 .header .right{
     width: 650px;
@@ -47,7 +47,7 @@ a{
     font-size: 14px;
 }
 .header .right li:first-child{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -55,7 +55,7 @@ a{
     margin-left: 2px;
 }
 .header .right li:nth-child(2):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -63,7 +63,7 @@ a{
     margin-left: 7px;
 }
 .header .right li:nth-child(3):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -72,7 +72,7 @@ a{
     width: 90px;
 }
 .header .right li:nth-child(4):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -81,7 +81,7 @@ a{
     width: 94px;
 }
 .header .right li:nth-child(5):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -90,7 +90,7 @@ a{
     margin-right: 1px;
 }
 .header .right li:nth-child(6):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -98,7 +98,7 @@ a{
     width: 62px;
 }
 .header .right li:nth-child(7):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -107,7 +107,7 @@ a{
     margin-left: 2px;
 }
 .header .right li:nth-child(8):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -212,7 +212,7 @@ a{
 }
 .main .welcome p:last-child{
     font-size: 16px;
-    color: #988b8b;
+    color: #475168;
 }
 .main .code{
     width: 1140px;
@@ -237,7 +237,7 @@ a{
     font-size: 18px;
 }
 .main .code .qure .first:hover{
-    background: #f77b6f;
+    background: #00567a;
 }
 .main .code .qure .first:hover p{
     color: #fff;
@@ -266,7 +266,7 @@ a{
 .main .deve .right{
     height: 90px;
     width: 263px;
-    background: #ff6c60;
+    background: #00567a;
     border-radius: 5px;
     float: right;
 }
@@ -324,7 +324,7 @@ a{
     margin-top: 45px;
 }
 .main .computer .center .txt div:hover{
-    background: #e87b72;
+    background: #00567a;
 }
 .main .computer .center .txt div span{
     color: #fff;
@@ -379,7 +379,7 @@ a{
     float: left;
 }
 .main .lunbo2 .left .one p:nth-child(2){
-    color: #f77b6f;
+    color: black;
     font-size: 12px;
     padding-top: 5px;
     padding-left: 60px;
@@ -497,7 +497,7 @@ a{
 .main .andhere{
     width: 100%;
     height: 400px;
-    background: #e87b72;
+    background: #00567a;
     margin-top: 50px;
 }
 .main .andhere .center{

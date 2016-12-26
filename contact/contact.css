@@ -28,7 +28,7 @@ a{
 }
 .header .left span:nth-child(2){
     font-size: 24px;
-    color: #f45f5b;
+    color: #00567a;
 }
 .header .right{
     width: 650px;
@@ -47,7 +47,7 @@ a{
     font-size: 14px;
 }
 .header .right li:nth-child(8){
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -55,7 +55,7 @@ a{
     margin-left: 2px;
 }
 .header .right li:nth-child(2):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -63,7 +63,7 @@ a{
     margin-left: 7px;
 }
 .header .right li:nth-child(3):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -72,7 +72,7 @@ a{
     width: 90px;
 }
 .header .right li:nth-child(4):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -81,7 +81,7 @@ a{
     width: 94px;
 }
 .header .right li:nth-child(5):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -90,7 +90,7 @@ a{
     margin-right: 1px;
 }
 .header .right li:nth-child(6):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -98,7 +98,7 @@ a{
     width: 62px;
 }
 .header .right li:nth-child(7):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -107,7 +107,7 @@ a{
     margin-left: 2px;
 }
 .header .right li:nth-child(1):hover{
-    background: #f45f5b;
+    background: #00567a;
     border-radius: 4px;
     color: #fff;
 }
@@ -183,7 +183,7 @@ a{
     margin-top: 10px;
 }
 .footer .right li:hover{
-    background: #e8796a;
+    background: #00567a;
 }
 .footer .right li img{
     display: block;
@@ -212,10 +212,10 @@ a{
     font-size: 12px;
 }
 .main .contact .right span:nth-child(1){
-    color: #f77b6f;
+    color: #d87c6a;
 }
 .main .contact .right span:nth-child(2){
-    color: #f77b6f;
+    color: #d87c6a;
 }
 .main .zhuyao{
     width: 1140px;
@@ -275,11 +275,11 @@ a{
     width: 72px;
     height: 34px;
     border-radius: 3px;
-    background: #ff6c60;
+    background: #00567a;
     margin-top: 15px;
 }
 .main .zhuyao .right .submit:hover{
-    background: #ec6459;
+    background: #00567a;
 }
 .main .zhuyao .right .submit p{
     font-size: 12px;
